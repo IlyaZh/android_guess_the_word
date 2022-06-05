@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Word advisor</string>
+    <string name="letters_you_know">Letters you know</string>
+    <string name="letters_should_be_in">Letters should be in</string>
+    <string name="letters_should_not_be_in">Letters shouldn\'t be in</string>
+    <string name="result_words">Result:</string>
+    <string name="search">Search</string>
+    <string name="x_words_founded">%d words founded</string>
+    <string name="first_letter">First letter</string>
+    <string name="second_letter">Second letter</string>
+    <string name="third_letter">Third letter</string>
+    <string name="fourth_letter">Fourth letter</string>
+    <string name="fifth_letter">Fifth letter</string>
+</resources>
